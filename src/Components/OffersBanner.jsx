@@ -10,7 +10,7 @@ function OffersBanner() {
     return (
         <div className=' d-flex justify-content-center align-items-center mt-5 flex-column'>
             <div className='w-75 '>
-                <h4 className='fw-bolder'>Best offers for your loved One</h4>
+                <h4 className='fw-bolder'>Best offers for your loved Ones</h4>
                 <div id='banner-img' className='d-flex align-items-center ' style={{overflowY:"scroll",gap:"20px"}}>
                     <img width={'450px'} src={banner2} alt="Offer" />
                     <img width={'450px'} src={banner1} alt="Offer" />
@@ -21,7 +21,7 @@ function OffersBanner() {
 
             <div className='w-75 mt-5'>
                 
-                <h4 className='fw-bolder'>What's on your mind today</h4>
+                <h4 className='fw-bolder'>What's on your mind now</h4>
                 <div className='d-flex align-items-center' style={{overflowY:"scroll",gap:"19px"}}>
                     <img className='img-fluid' width={'140px'} src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_288,h_360/rng/md/carousel/production/e20c602ba8ed5d8ec2204e7a7b19d9f6" alt="Pothichoru" />
 
